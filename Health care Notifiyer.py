@@ -4,13 +4,13 @@ from plyer import notification
 
 
 def water():
-    time.sleep(60*30)
+    time.sleep(60*20)
     print("It's water time..")
     playsound('D:\\game sounds\\water.mp3')
     notification.notify(
                 title="** It's water time **",
                 message="Drink 1 glass of water from your bottle.... And enjoy programming...",
-                app_icon="C:\\Users\\star\\PycharmProjects\\practicepython\\Water.ico",
+                app_icon="C:\\Users\\star\\PycharmProjects\\Health Care notifier\\Water.ico",
                 timeout=12)
 
 
@@ -21,7 +21,7 @@ def eyes():
     notification.notify(
                 title="** It's eye's exercise time **",
                 message="Look 20 Feet's away for next 20 seconds from now... And enjoy programming...",
-                app_icon="C:\\Users\\star\\PycharmProjects\\practicepython\\Eye Exersice.ico",
+                app_icon="C:\\Users\\star\\PycharmProjects\\Health Care notifier\\Eye Exersice.ico",
                 timeout=12)
 
 
@@ -32,7 +32,7 @@ def physical():
     notification.notify(
                 title="** It's exercise time **",
                 message="Get up from your chair and do some PT.... And enjoy programming...",
-                app_icon="C:\\Users\\star\\PycharmProjects\\practicepython\\Exersice.ico",
+                app_icon="C:\\Users\\star\\PycharmProjects\\Health Care notifier\\Exersice.ico",
                 timeout=12)
 
 
