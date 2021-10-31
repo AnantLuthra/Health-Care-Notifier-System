@@ -16,9 +16,9 @@ def put_on_sleep(str):
     speak("Putting your laptop on sleep.., because I cares about your health so much....")
     pyautogui.hotkey('win', 'd')
     pyautogui.hotkey('alt', 'f4')
-    time.sleep(1)
+    time.sleep(.5)
     pyautogui.press('left')
-    time.sleep(1)
+    time.sleep(.5)
     pyautogui.press("enter")
 
 def water(path):
