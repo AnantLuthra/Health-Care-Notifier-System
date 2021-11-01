@@ -49,7 +49,7 @@ def physical(path):
                 message="Get up from your chair and do some PT.... And enjoy programming...",
                 app_icon=fr"{path}\Exersice.ico",
                 timeout=12)
-    put_on_sleep("First do some physical activity and then come back..")
+    speak("First do some physical activity and then come back..")
 
 if __name__ == '__main__':
     pyautogui.hotkey('win', 'd')
