@@ -32,7 +32,7 @@ def water(path):
     put_on_sleep("First drink 1 glass of water and then come back..")
 
 def eyes(path):
-    time.sleep(60*5)
+    time.sleep(60*8)
     speak("It's eyes exercise time..")
     notification.notify(
                 title="** It's eye's exercise time **",
@@ -42,7 +42,7 @@ def eyes(path):
     put_on_sleep("First do eyes exercise and then come back..")
 
 def physical(path):
-    time.sleep(60*5)
+    time.sleep(60*8)
     speak("It's physical exercise time..")
     notification.notify(
                 title="** It's exercise time **",
@@ -52,7 +52,6 @@ def physical(path):
     speak("First do some physical activity and then come back..")
 
 if __name__ == '__main__':
-    pyautogui.hotkey('win', 'd')
     print("Welcome to Health care management...")
     path = os.getcwd()
     while True:
