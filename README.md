@@ -29,4 +29,5 @@ shell:startup
 ```
 then enter. 
 - Then just paste the shortcut of the main file. having .pyw extension. Then from next time as you boot your system it will automatically start run in background and just notify you.
-- Pro tip if you feel fedup with getting notification and voice notes you can close it by going into task manager > details then find pyw.exe then select that and click on end process. This will close that program, and it will rerun again when you reboot your system next time.
+## Pro tip
+- If you feel fedup with getting notification and voice notes you can close it by going into task manager > details then find pyw.exe then select that and click on end process. This will close that program, and it will rerun again when you reboot your system next time.
