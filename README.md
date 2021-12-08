@@ -9,7 +9,7 @@ You can use this to take care of your health because in most of the cases almost
 
 ## Cons:-
 - This program can be so irritatefull because regular notification and voice note can irritate someone.
-- I am saying this because this program sometimes irritates me asd well.
+- I am saying this because this program sometimes irritates me as well.
 
 ## Modules used.
 - time
