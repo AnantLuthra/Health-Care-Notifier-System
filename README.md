@@ -34,6 +34,6 @@ then enter.
 
 ## Follow Me On Social Media
 - [Twitter](https://twitter.com/anant_luthra_07)
-- [Blog](https://anantluthra.blogspot.com/)
+- [Blogger](https://anantluthra.blogspot.com/)
 - [Showwcase](https://www.showwcase.com/anant_luthra_07)
 - [Github](https://github.com/AnantLuthra)
