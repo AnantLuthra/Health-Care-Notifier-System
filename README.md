@@ -11,6 +11,12 @@ You can use this to take care of your health because in most of the cases almost
 - This program can be so irritatefull because regular notification and voice note can irritate someone.
 - I am saying this because this program sometimes irritates me as well.
 
+## Second version
+- Now another version of this notifier is also made for less irritating.
+- Name of that version's file is written down below. You can also use this.
+```
+"Health care Notifiyer_2.pyw"
+```
 ## Modules used.
 - time
 - notification
@@ -31,3 +37,4 @@ then enter.
 - Then just paste the shortcut of the main file. having .pyw extension. Then from next time as you boot your system it will automatically start run in background and just notify you.
 ## Pro tip
 - If you feel fedup with getting notification and voice notes you can close it by going into task manager > details then find pyw.exe then select that and click on end process. This will close that program, and it will rerun again when you reboot your system next time.
+- Or you can use another version of this notifier system which is quite less irritating.
