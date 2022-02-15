@@ -42,5 +42,5 @@ then enter.
 ## Follow Me On Social Media
 - [Twitter](https://twitter.com/anant_luthra_)
 - [Blogger](https://anantluthra.blogspot.com/)
-- [Showwcase](https://www.showwcase.com/anant_luthra_07)
+- [Showwcase](https://www.showwcase.com/anant-luthra-07)
 - [Github](https://github.com/AnantLuthra)
