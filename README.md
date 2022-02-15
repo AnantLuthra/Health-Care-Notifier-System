@@ -40,7 +40,7 @@ then enter.
 - Or you can use another version of this notifier system which is quite less irritating.
 
 ## Follow Me On Social Media
-- [Twitter](https://twitter.com/anant_luthra_07)
+- [Twitter](https://twitter.com/anant_luthra_)
 - [Blogger](https://anantluthra.blogspot.com/)
-- [Showwcase](https://www.showwcase.com/anant_luthra_)
+- [Showwcase](https://www.showwcase.com/anant_luthra_07)
 - [Github](https://github.com/AnantLuthra)
